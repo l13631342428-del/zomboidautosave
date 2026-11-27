@@ -17,3 +17,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local verification clone
+zomboidautosave/
